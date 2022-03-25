@@ -45,16 +45,13 @@ export default function Inventory() {
                         <input type="number" class="form-control" id="apples" autocomplete="off"
                             min="0" placeholder='0' />
                     </div>
-
                 </div>
-
                 <div className="form-row">
                     <div className="form-group col-md-6">
                         <label for="inputSKU">Title</label>
                         <input type="text" className="form-control" id="inputSKU" placeholder="Short sleeve t-shirt" />
                     </div>
                 </div>
-
                 <div className="form">
                     <div className="editor">
                         <CKEditor
