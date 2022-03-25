@@ -48,3 +48,17 @@ body {
 .ck-editor__editable_inline {
   min-height: 200px;
 }
+.pricing {
+  margin-top: 20px;
+}
+.price-customer {
+  margin: 0px 0px 20px 0px;
+  color: rgba(137, 139, 142, 1);
+}
+.price-customer-1 {
+  margin: 20px 10px 20px 10px;
+  color: rgba(137, 139, 142, 1);
+}
+.input-group-1 {
+  color: #2f2d2f;
+}
